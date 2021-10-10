@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/materialUI-todos/static/css/main.be814a58.chunk.css",
-    "main.js": "/materialUI-todos/static/js/main.7dcaf13f.chunk.js",
-    "main.js.map": "/materialUI-todos/static/js/main.7dcaf13f.chunk.js.map",
-    "runtime-main.js": "/materialUI-todos/static/js/runtime-main.bfc16ab6.js",
-    "runtime-main.js.map": "/materialUI-todos/static/js/runtime-main.bfc16ab6.js.map",
-    "static/js/2.0be20cef.chunk.js": "/materialUI-todos/static/js/2.0be20cef.chunk.js",
-    "static/js/2.0be20cef.chunk.js.map": "/materialUI-todos/static/js/2.0be20cef.chunk.js.map",
-    "static/js/3.ec5584eb.chunk.js": "/materialUI-todos/static/js/3.ec5584eb.chunk.js",
-    "static/js/3.ec5584eb.chunk.js.map": "/materialUI-todos/static/js/3.ec5584eb.chunk.js.map",
+    "main.css": "/materialUI-todos/static/css/main.d823faad.chunk.css",
+    "main.js": "/materialUI-todos/static/js/main.214add80.chunk.js",
+    "main.js.map": "/materialUI-todos/static/js/main.214add80.chunk.js.map",
+    "runtime-main.js": "/materialUI-todos/static/js/runtime-main.af0dde0a.js",
+    "runtime-main.js.map": "/materialUI-todos/static/js/runtime-main.af0dde0a.js.map",
+    "static/js/2.507eddf7.chunk.js": "/materialUI-todos/static/js/2.507eddf7.chunk.js",
+    "static/js/2.507eddf7.chunk.js.map": "/materialUI-todos/static/js/2.507eddf7.chunk.js.map",
+    "static/js/3.66d714d7.chunk.js": "/materialUI-todos/static/js/3.66d714d7.chunk.js",
+    "static/js/3.66d714d7.chunk.js.map": "/materialUI-todos/static/js/3.66d714d7.chunk.js.map",
     "index.html": "/materialUI-todos/index.html",
-    "static/css/main.be814a58.chunk.css.map": "/materialUI-todos/static/css/main.be814a58.chunk.css.map",
-    "static/js/2.0be20cef.chunk.js.LICENSE.txt": "/materialUI-todos/static/js/2.0be20cef.chunk.js.LICENSE.txt"
+    "static/css/main.d823faad.chunk.css.map": "/materialUI-todos/static/css/main.d823faad.chunk.css.map",
+    "static/js/2.507eddf7.chunk.js.LICENSE.txt": "/materialUI-todos/static/js/2.507eddf7.chunk.js.LICENSE.txt",
+    "static/media/todoimage.82a9f92d.jpeg": "/materialUI-todos/static/media/todoimage.82a9f92d.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfc16ab6.js",
-    "static/js/2.0be20cef.chunk.js",
-    "static/css/main.be814a58.chunk.css",
-    "static/js/main.7dcaf13f.chunk.js"
+    "static/js/runtime-main.af0dde0a.js",
+    "static/js/2.507eddf7.chunk.js",
+    "static/css/main.d823faad.chunk.css",
+    "static/js/main.214add80.chunk.js"
   ]
 }
